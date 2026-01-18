@@ -1,7 +1,7 @@
 # Ambient Sleep Assistant – IT Product Design Project
 
 **A tangible, ambient interface designed to improve sleep hygiene by restructuring evening routines.**
-
+![The Final Product](AmbientLIghtDesign.png)
 This project was developed as part of the course *Grundlæggende IT-produktdesign 2025* (Basic IT Product Design). It explores how ambient technology can help users disconnect from digital devices and establish healthier sleep habits.
 
 ## Problem Statement
@@ -20,6 +20,8 @@ We designed a physical "base" for the smartphone that acts as a companion for th
 * **Analog Time Setting:** The concept features a tangible interface where the user sets their wake-up/bedtime by placing a physical silver ball in specific slots (simulated by buttons in this prototype), moving away from digital screens for configuration.
 
 ## Technical Implementation
+
+![](Wiring.png)
 The prototype is built on the Arduino platform, focusing on sensor integration and LED control.
 
 ### Hardware Stack
