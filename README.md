@@ -26,7 +26,7 @@ We designed a physical "base" for the smartphone that acts as a companion for th
 The prototype is built on the Arduino platform, focusing on sensor integration and LED control.
 
 ### Hardware Stack
-* **Microcontroller:** Arduino Uno[cite: 261].
+* **Microcontroller:** Arduino Uno.
 * **Sensors:**
     * **Linear Hall Effect Sensor:** Detects the presence of the mobile phone via its magnetic field.
 * **Actuators:**
